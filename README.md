@@ -39,8 +39,7 @@
 
 
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RitikaDhankhar&icon=4&color=1)](https://visitcount.itsvg.in)
