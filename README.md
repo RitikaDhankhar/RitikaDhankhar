@@ -2,7 +2,7 @@
 
 👩🏻‍🎓Pursuing MCA<br/>
 👩🏻‍🎓Completed Computer Science at University of Delhi, India<br/>
-💭Currently learning Android Development and Data Analysis<br>
+💭Currently learning Android Development and 📊 Data Analysis<br>
 ✍️writing Research Paper<br/>
 
 
