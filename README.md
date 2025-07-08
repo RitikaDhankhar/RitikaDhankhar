@@ -1,6 +1,6 @@
 ### 👋Hi, I'm Ritika!
 
-👩🏻‍🎓Pursuing MCA<br/>
+👩🏻‍🎓Completed MCA<br/>
 👩🏻‍🎓Completed Computer Science at University of Delhi, India<br/>
 💭Currently learning Android Development and 📊 Data Analysis<br>
 ✍️writing Research Paper<br/>
